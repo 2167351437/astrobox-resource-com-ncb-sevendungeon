@@ -3,14 +3,14 @@
     "id": "com.ncb.sevendungeon",
     "restype": "quick_app",
     "name": "七格地牢",
-    "description": "《七格地牢》是一款为 Vela 手环设计的 7×7 回合制地牢游戏。每走一步就是一回合，撞到敌人即攻击；在迷雾中找楼梯，逐层深入，第五层击败地牢主即可通关。\n\n三种职业可选：剑士血厚减伤，游侠有闪避，法师击杀回血。药水、金币、武器、护符散落在格子间，先算退路，再往前顶。",
+    "description": "《七格地牢》是一款为 Vela 手环设计的 7×7 回合制地牢游戏。每走一步就是一回合，撞到敌人即攻击；在迷雾中找楼梯，逐层深入，第五层击败地牢主即可通关。\n\n三种职业可选：剑士血厚减伤，游侠有闪避，法师击杀回血。药水、金币、武器、护符散落在格子间，先算退路，再往前顶。\n\nV1.0.6更新内容：\n更换了快应用图标，适配游戏主题",
     "preview": [
       "media/1000183738.png",
       "media/1000183739.png",
       "media/1000183740.png",
       "media/1000183741.png"
     ],
-    "icon": "media/1000183735.png",
+    "icon": "media/1000183747.png",
     "cover": "media/1000183734.png",
     "author": [
       {
@@ -28,24 +28,24 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "1.0.5",
-      "file_name": "downloads/seven-dungeon-1.0.5-store.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/seven-dungeon-1.0.6-store.rpk",
+      "versionCode": 7
     },
     "xmb10nfc": {
-      "version": "1.0.5",
-      "file_name": "downloads/seven-dungeon-1.0.5-store.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/seven-dungeon-1.0.6-store.rpk",
+      "versionCode": 7
     },
     "xmb11": {
-      "version": "1.0.5",
-      "file_name": "downloads/seven-dungeon-1.0.5-store.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/seven-dungeon-1.0.6-store.rpk",
+      "versionCode": 7
     },
     "xmb11nfc": {
-      "version": "1.0.5",
-      "file_name": "downloads/seven-dungeon-1.0.5-store.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/seven-dungeon-1.0.6-store.rpk",
+      "versionCode": 7
     }
   },
   "ext": {
